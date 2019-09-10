@@ -22,7 +22,7 @@ body {
     display: grid; /* create grid layout */
     grid-template-columns: 68vw 32vw; /* 2 columns with specific width */
     grid-template-rows: 10vh 74vh 16vh; /* 3 rows with specified height */
-  
+
 }
 
 
@@ -35,7 +35,7 @@ body {
     grid-template-columns: 68vw 32vw; /* 2 columns with specific width */
     grid-template-rows: 10vh 74vh 16vh; /* 3 rows with specified height */
     display: grid;
-   
+
 }
 
 h1 {
@@ -51,8 +51,8 @@ h1 {
 
 
 .header_right {
-	
-    
+
+
 }
 
 
@@ -65,21 +65,21 @@ h1 {
     grid-column: 1 / 2;
     display:grid;
     padding-left: 4vw;
-    
+
 }
 
 
 .content-left-top {
     display:grid;
-    
-    
+
+
 }
 
 
 
 .content-left-bottom {
    display:grid;
-   
+
 }
 
 p {
@@ -95,7 +95,7 @@ h2 {
 h3 {
     font-size: 2.7vmax;
     padding-bottom: 0.5vmax;
-    font-weight: 100;
+    font-weight: 500;
 }
 
 
@@ -143,5 +143,5 @@ h3 {
 
 .footer_right {
 	display:grid;
- 
+
 }
